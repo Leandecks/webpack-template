@@ -1,21 +1,13 @@
-## Leandecks Webpack Template
+## CSS + JS Webpack Template
 
-Webpack template using Babel and Sass.   
+Webpack template that handles css, js, images and fonts.   
 Source code in `./src`, builds to `./dist`
 .
 ### Commands
 
-Run for development, opens local dev server and watches for changes:
-
-`
-npm run dev
-`
-
-Build all resources from `./src` to `./dist`:
-
-`
-npm run build
-`
+- `npm run dev` - runs for development, opens local dev server and watches for changes.
+- `npm run build` - builds all resources from `./src` to `./dist`:
+- `npm run deploy` - pushes dist folder to new remote branch
 
 ### Credits
 
@@ -24,5 +16,3 @@ Favicon (L) by [arnikahossain - Flaticon](https://www.flaticon.com/free-icons/le
 ### Tools used
 
 - [Webpack](https://webpack.js.org/)
-- [Sass](https://sass-lang.com/)
-- [Babel](https://babeljs.io/)
