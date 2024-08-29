@@ -1,8 +1,9 @@
 ## CSS + JS Webpack Template
 
-Webpack template that handles css, js, images and fonts.   
+Webpack template that handles css, js, images and fonts.  
 Source code in `./src`, builds to `./dist`
 .
+
 ### Commands
 
 - `npm run dev` - runs for development, opens local dev server and watches for changes.
