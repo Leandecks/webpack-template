@@ -1,8 +1,7 @@
 {
-  "name": "webpack",
-  "version": "1.0.0",
-  "description": "",
-  "private": true,
+  "name": "ld-webpack-template",
+  "version": "2.0.0",
+  "description": "Basic webpack template for just css + js.",
   "scripts": {
     "build": "webpack --progress --config webpack/webpack.prod.js",
     "dev": "webpack serve --open --config webpack/webpack.dev.js --hot",
