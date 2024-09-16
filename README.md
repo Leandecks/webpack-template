@@ -1,7 +1,7 @@
 ## CSS + JS Webpack Template
 
 Webpack template that handles css, js, images and fonts.
-Uses ESLint and Prettier.  
+Uses ESLint, Prettier and Babel.  
 Source code in `./src`, builds to `./dist`
 .
 
@@ -20,3 +20,4 @@ Favicon (L) by [arnikahossain - Flaticon](https://www.flaticon.com/free-icons/le
 - [Webpack](https://webpack.js.org/)
 - [ESLint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
+- [Babel](https://babeljs.io/)
